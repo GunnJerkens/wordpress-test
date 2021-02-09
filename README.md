@@ -1,8 +1,10 @@
 # Development Test
 
-Assemble a small Wordpress site from scratch. DO NOT use any existing themes or plugins, the goal of this exercise is to test your ability at creating a super basic theme. 
+Assemble a small Wordpress site from scratch. DO NOT use any existing themes or plugins, the goal of this exercise is to test your ability at creating a super basic theme.
 
 The expected time for this exercise is 30-60 minutes.
+
+**Use _admin/admin_ as the username/password, so we can log in to the test site you create.**
 
 ## Requirements
 
