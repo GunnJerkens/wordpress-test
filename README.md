@@ -10,19 +10,22 @@ The expected time for this exercise is 30-60 minutes.
 
 All content must be editable in WordPress.
 
-- home page
-    - global menu which collapses on screens narrower than 768px. Pages in the menu can be empty but for a title.
+- Home page
+    - Global menu which collapses on screens narrower than 768px. Pages in the menu can be empty but for a title.
         - About
         - Products
         - Contact
-    - masthead image, full page width
+    - Masthead image, full page width
     - 3 unique blocks of text
-    - newsletter ajax signup form
-      - uses admin-ajax.php
-      - one text input: email
-      - one button: signup
-      - validate email structure using a regex pattern (just the structure [something]@[something].[something])
-      - report email validation back to the page
+    - Newsletter ajax signup form
+      - Uses admin-ajax.php
+      - One text input: email
+      - One button: signup
+      - Validate email structure using a regex pattern (just the structure [something]@[something].[something])
+      - Report email validation back to the page
+    - Basic footer with list of links that open a modal with different dummy copy for each. Include a background overlay so the page content is covered/dimmed and a close button to dismiss the modal.
+        - Privacy Policy
+        - Terms of Use
 
 ## Delivery
 
