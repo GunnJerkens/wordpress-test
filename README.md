@@ -11,7 +11,7 @@ The expected time for this exercise is 30-60 minutes.
 All content must be editable in WordPress.
 
 - Home page
-    - Global menu which collapses on screens narrower than 768px. Pages in the menu can be empty but for a title.
+    - Global menu which collapses on screens narrower than 768px. Page links in the menu can be empty but for a title.
         - About
         - Products
         - Contact
@@ -23,7 +23,7 @@ All content must be editable in WordPress.
       - One button: signup
       - Validate email structure using a regex pattern (just the structure [something]@[something].[something])
       - Report email validation back to the page
-    - Basic footer with list of links that open a modal with different dummy copy for each. Include a background overlay so the page content is covered/dimmed and a close button to dismiss the modal.
+    - Basic footer with list of links that open a modal with different dummy copy for each. Include a background overlay so the page content is covered/dimmed and a close button to dismiss the modal. Links in the footer can be empty but for a title.
         - Privacy Policy
         - Terms of Use
 
