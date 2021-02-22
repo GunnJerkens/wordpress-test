@@ -1,6 +1,6 @@
 # Development Test
 
-Assemble a small Wordpress site from scratch. DO NOT use any existing themes or plugins, the goal of this exercise is to test your ability at creating a super basic theme.
+Assemble a small WordPress site from scratch. DO NOT use any existing themes or plugins, the goal of this exercise is to test your ability at creating a super basic theme.
 
 The expected time for this exercise is 2–4 hours.
 
@@ -10,8 +10,10 @@ The expected time for this exercise is 2–4 hours.
 
 All content must be editable in WordPress.
 
+Try to follow best practices by making sure the website is responsive and uses semantic HTML where appropriate.
+
 - Home page
-    - Global menu which collapses on screens narrower than 768px. Page links in the menu can be empty but for a title.
+    - Global navigation menu which collapses and hides on screens narrower than 768px and shows a menu toggle button that shows/hides the navigation when clicked. Page links in the menu can be empty but for a title.
         - About
         - Products
         - Contact
