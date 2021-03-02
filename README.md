@@ -10,7 +10,7 @@ The expected time for this exercise is 2–4 hours.
 
 All content must be editable in WordPress.
 
-Try to follow best practices by adding the proper doctype, meta tags, making sure the website is responsive, and using semantic HTML where appropriate.
+Try to follow best practices by adding the proper doctype, meta tags, making sure the website is responsive and mobile-optimized, and using semantic HTML where appropriate.
 
 - Home page
     - Global navigation menu which collapses and hides on screens narrower than 768px and shows a menu toggle button that shows/hides the navigation when clicked. Page links in the menu can be empty but for a title.
