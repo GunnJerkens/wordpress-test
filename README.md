@@ -29,6 +29,10 @@ Try to follow best practices by adding the proper doctype, meta tags, making sur
         - Privacy Policy
         - Terms of Use
 
+### Extra Credit
+
+Create 3 blog posts with masthead image and dummy content and create at least two categories and assign to multiple posts. Create a basic main blog page template that shows all of the posts as previews in columns (image thumbnail, title, date, categories, excerpt and Read More link to the post page. Create a basic single blog post template that shows full-width image, title, date, categories and post content.
+
 ## Delivery
 
 A .zip archive containing:
